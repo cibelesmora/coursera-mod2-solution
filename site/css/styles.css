@@ -23,6 +23,8 @@ h2 {
   border: 1px solid black;
   width: 186px;
   text-align: center;
+  margin-top: -1px;
+  margin-right: -1px;
   margin-bottom: 20px;
   font-weight: normal;
   font-size: 1.25em;
@@ -61,13 +63,12 @@ border: 1px solid black;
 
 /*There are three classes of title: one for each color*/
 .title_red{
-  background-color: #CC3333;
+  background-color: #FE2E2E;
   color: white;
 }
 
 .title_salmon{
-  background-color: #CC9933;
-  color: white;
+  background-color: #F79F81;
 }
 
 .title_sand{
